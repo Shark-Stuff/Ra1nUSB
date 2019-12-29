@@ -1,0 +1,3 @@
+[submodule "AMD-Patch"]
+	path = AMD-Patch
+	url = https://github.com/AMD-OSX/AMD_Vanilla
